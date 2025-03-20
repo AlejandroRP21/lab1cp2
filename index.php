@@ -5,6 +5,7 @@
         <h2>Inventario de Gorras</h2>
         <a href="agregar.php">
             <button type="button">Agregar Inventario</button>
+              <link rel="stylesheet" href="styles.css"
         </a>
         
         <table border="1">
@@ -41,4 +42,4 @@
         </table>
     </main>
 
-    <?php include "footer.php";?>
+    <?php include "footer.php"; ?>
